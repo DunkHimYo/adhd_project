@@ -90,6 +90,6 @@
 | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/train_ratio.png)|
 
-| 모델 제작 |
-| ------ |
-|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/model.png)|
+| 모델 제작 | 모델 명세서 |
+| ------ | ------ |
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/model.png)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/Specification.png|
