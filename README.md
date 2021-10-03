@@ -85,10 +85,13 @@
 | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/feature.png)|
 
+- Train/ Validation 비율을 8:2로 하였으며 Train으로 부터 K-FOld를 Fold의 개수를 7로 적용하여 훈련 시킴
 
 | Train Test 비율 |
 | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/train_ratio.png)|
+
+- Correlation을 특징으로 한 데이터(19,19,19,1)를 (19,8,8,1)로 Crop화 하여 해당 영역에 Conv3D 연산을 하여 8개의 맞춤형 필터를 적용해 GAP3d(GlobalAveragePooling)로 데이터를 압축하여 계산된 Crop들을 Concat하여 Sigmoid로 결과를 출력
 
 | 모델 제작 | 모델 명세서 |
 | ------ | ------ |
