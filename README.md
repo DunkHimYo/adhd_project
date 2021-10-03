@@ -54,9 +54,8 @@
 - ADHD의 경우 평균이 중앙값보다 커서 좌로 치우쳐 진것을 확인 할 수 있음
 - 정상인과 비교 하였을때 걸린 시간이 보다 오래 걸림
 
-| adhd | control |
-| ------ | ------ |
-
+| Compare |
 | ------ |
 |![chan_corr](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/time_corr.png)|
 |![chan_corr](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/freq_corr.png)|
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/delta.png)|
