@@ -98,7 +98,8 @@
 | ------ | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/model.png)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/Specification.png)|
 
-- Time domain Channel Correlation 
+- Time domain Channel Correlation 결과
+
 | 모델 1 train 결과 | 모델 2 train 결과 | 모델 3 train 결과 |
 | ------ | ------ | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr_2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr_3.jpg)|
