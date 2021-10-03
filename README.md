@@ -92,4 +92,4 @@
 
 | 모델 제작 | 모델 명세서 |
 | ------ | ------ |
-|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/model.png)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/Specification.png|
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/model.png)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/Specification.png)|
