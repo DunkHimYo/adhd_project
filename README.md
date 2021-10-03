@@ -35,3 +35,12 @@
 | BEFORE | AFTER |
 | ------ | ------ |
 |![star_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/star_before.png)|![star_after](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/star_after.png)|
+
+- ASR(Artifact Subspace Reconstruction)
+
+  근육 발생 아티팩트의 공간을 재구성
+
+| Musle Artifact |
+| ------ |
+|![muscle_artifact](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/musle_artifact.jpg)|
+
