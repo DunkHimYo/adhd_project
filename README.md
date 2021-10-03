@@ -101,7 +101,7 @@
 
 | 모델 1 train 결과 | 모델 2 train 결과 | 모델 3 train 결과 |
 | ------ | ------ | ------ |
-|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr3.jpg)|
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr_2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_corr_3.jpg)|
 
 | 모델 1 test set 결과 | 모델 2 test set 결과 | 모델 3 test set 결과 |
 | ------ | ------ | ------ |
