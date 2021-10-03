@@ -97,3 +97,7 @@
 | 모델 제작 | 모델 명세서 |
 | ------ | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/model.png)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/Specification.png)|
+
+| 모델 제작 | 모델 명세서 | 모델 명세서 |
+| ------ | ------ | ------ |
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_confusion_matrix_1.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_confusion_matrix_2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/chan_confusion_matrix_3.jpg)|
