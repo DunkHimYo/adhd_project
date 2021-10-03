@@ -43,4 +43,6 @@
 | Musle Artifact |
 | ------ |
 |![muscle_artifact](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/musle_artifact.jpg)|
-
+| BEFORE | AFTER |
+| ------ | ------ |
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/asr_before.png)|![asr_after](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/asr_after.png)|
