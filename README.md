@@ -16,12 +16,13 @@
 
 | TOPOMAP | MRI |
 | ------ | ------ |
-|[![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/channel_topomap.png)]|[![mri](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/mri.png)]|
+|![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/channel_topomap.png)|![mri](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/mri.png)|
 
 ### 데이터 전처리
 
 - Notch Filter
 가정용 전원에 의한 교류전기가 뇌파 기록에 섞여 50Hz에 큰 진폭이 발생하여 제거
+
 | BEFORE | AFTER |
 | ------ | ------ |
 |![notch_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/notch_filter_before.jpg)|![notch_after](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/notch_filter_after.jpg)|
