@@ -57,7 +57,11 @@
 | Time Correlation Compare |
 | ------ |
 |![chan_corr](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/time_corr.png)|
+
 | PSD Correlation Compare |
+| ------ |
 |![chan_corr](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/freq_corr.png)|
+
 | Abs Band Power Compare |
+| ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/delta.png)|
