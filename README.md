@@ -75,3 +75,12 @@
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/betaL.png)|
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/gamma.png)|
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/total.png)|
+
+### 모델 학습
+- Time Domain 에서는 ADHD 환자가 정상인보다 약간 높은 수치를 보여 주었으며 Freq Domain에서는 정상인이 높은 수치를 보여줌
+- Abs Band Power의 경우 시각 영역에서 차이를 보여주는 것을 확인 할 
+
+
+| 특징 추출 |
+| ------ |
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/feature.png)|
