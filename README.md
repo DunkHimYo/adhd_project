@@ -68,6 +68,6 @@
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/theta.png)|
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/alpha.png)|
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/betaH.png)|
-|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/betaM.png)|
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/BetaM.png)|
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/betaL.png)|
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/gamma.png)|
