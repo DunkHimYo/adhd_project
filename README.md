@@ -85,7 +85,7 @@
 | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/feature.png)|
 
-- Train/ Validation 비율을 8:2로 하였으며 Train으로 부터 K-FOld를 Fold의 개수를 7로 적용하여 훈련 시킴
+- Train/ Validation 비율을 8:2로 하였으며 Train으로 부터 K-Fold를 적용하여 Fold의 개수를 7로 훈련 시킴
 
 | Train Test 비율 |
 | ------ |
