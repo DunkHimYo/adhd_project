@@ -55,5 +55,5 @@
 - 정상인과 비교 하였을때 걸린 시간이 보다 오래 걸림
 
 | ADHD | Control |
-| ------ | ------ |
+| ------ |
 |![chan_corr](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/time_corr.png)|
