@@ -84,3 +84,8 @@
 | 특징 추출 |
 | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/feature.png)|
+
+
+| 모델 제작 |
+| ------ |
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/model.png|
