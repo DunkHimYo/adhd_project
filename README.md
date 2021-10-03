@@ -27,3 +27,11 @@
 | BEFORE | AFTER |
 | ------ | ------ |
 |![notch_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/notch_filter_before.jpg)|![notch_after](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/notch_filter_after.jpg)|
+
+- Star(Sparse time artifact removal)
+
+  각 채널에 일시적 발생한 로컬 아티팩트를 제거
+
+| BEFORE | AFTER |
+| ------ | ------ |
+|![star_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/star_before.png)|![star_after](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/star_after.png)|
