@@ -46,4 +46,4 @@
 
 | BEFORE | AFTER |
 | ------ | ------ |
-|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/asr_before.png)|![asr_after](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/asr_after.png)|
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/asr_before.jpg)|![asr_after](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/asr_after.jpg)|
