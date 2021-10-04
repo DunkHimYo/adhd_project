@@ -15,18 +15,10 @@
 ### 데이터 수집
 - 최대 6 개월 동안 리탈린을 복용한 7 ~ 12세의 남녀 ADHD환자 61 명과 정신과적 장애, 간질 또는 고위험 행동에 대한 기록이 없는 정상인 60 명을 DSM-IV 기준에 따라 진단을 받았으며 시각적주의 작업을 기반으로 무작위 5 ~ 16 개 사이의 캐릭터의 수를 셈한 과정을 19 개 채널 (Fz, Cz, Pz, C3, T3, C4, T4, Fp1, Fp2, F3, F4, F7, F8, P3, P4, T5, T6, O1, O2)을 샘플링 주파수 128Hz로 기록
 
-
-| System Concept Diagram |
-| ------ |
-|![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/system_concept.png)|
-
 | TOPOMAP | MRI |
 | ------ | ------ |
 |![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/channel_topomap.png)|![mri](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/mri.png)|
 
-| System FlowChart |
-| ------ |
-|![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/flowchart_adhd.png)|
 
 ### 데이터 전처리
 
@@ -124,3 +116,14 @@
 | 모델 1 test set 결과 | 모델 2 test set 결과 | 모델 3 test set 결과 |
 | ------ | ------ | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix3.jpg)|
+
+###모델 적용 프로그램
+
+| System Concept Diagram |
+| ------ |
+|![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/system_concept.png)|
+
+
+| System FlowChart |
+| ------ |
+|![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/flowchart_adhd.png)|
