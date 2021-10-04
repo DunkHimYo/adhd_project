@@ -23,6 +23,10 @@
 | ------ | ------ |
 |![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/channel_topomap.png)|![mri](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/mri.png)|
 
+| System FlowChart |
+| ------ |
+|![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/adhd_flowchart.png)|
+
 ### 데이터 전처리
 
 - Notch Filter
