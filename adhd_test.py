@@ -6,7 +6,7 @@ import sys
 import random
 import numpy as np
 import os
-import server
+import background_process
 import atexit
 import math
 from multiprocessing import Process, Manager, freeze_support
@@ -225,7 +225,7 @@ if __name__ == '__main__':
     rcv['method'] = None
     rcv['loading_chk'] = False
 
-    p = Process(target=server.get_eeg_data, args=(rcv,))
+    p = Process(target=background_process.get_eeg_data, args=(rcv,))
     p.start()
     atexit.register(program_exit, [p])
 
