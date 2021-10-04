@@ -117,4 +117,4 @@
 
 | 모델 1 test set 결과 | 모델 2 test set 결과 | 모델 3 test set 결과 |
 | ------ | ------ | ------ |
-|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix1.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix3.jpg)|
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix3.jpg)|
