@@ -88,7 +88,8 @@
 | Train Test 비율 |
 | ------ |
 |![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/train_ratio.png)|
-- Learning Rate : 0.01, Epoch : 200, batch_size=6, loss=Binary_
+
+- Learning Rate : 0.01, Epoch : 200, batch_size=6, loss=binary_crossentropy, optimizer=Adam
 - Time Domain Correlation을 특징으로 한 데이터(19,19,19,1)를 (19,5,5,1)로 Crop화 하여 해당 영역에 Conv3D 연산을 하여 8개의 맞춤형 필터를 적용해 GAP3d(GlobalAveragePooling)로 데이터를 압축하여 Sliding Window로 이동하면서 계산된 Crop들을 Concat하여 Sigmoid로 결과를 출력
 - Freqs Domain Correlation을 특징으로 한 데이터(19,19,19,1)를 (19,3,3,1)로 Crop화 하여 해당 영역에 Conv3D 연산을 하여 8개의 맞춤형 필터를 적용해 GMP3d(GlobalAveragePooling)로 데이터를 압축하여 Sliding Window로 이동하면서 계산된 Crop들을 Concat하여 Sigmoid로 결과를 출력
 - Abs BandPower을 특징으로 한 데이터(19,19,7,1)를 (19,3,3,1)로 Crop화 하여 해당 영역에 Conv3D 연산을 하여 8개의 맞춤형 필터를 적용해 GMP3d(GlobalAveragePooling)로 데이터를 압축하여 Sliding Window로 이동하면서 계산된 Crop들을 Concat하여 Sigmoid로 결과를 출력
