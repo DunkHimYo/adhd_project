@@ -113,8 +113,8 @@
 
 | 모델 1 train 결과 | 모델 2 train 결과 | 모델 3 train 결과 |
 | ------ | ------ | ------ |
-|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_3.jpg)|
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr3.jpg)|
 
 | 모델 1 test set 결과 | 모델 2 test set 결과 | 모델 3 test set 결과 |
 | ------ | ------ | ------ |
-|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix_1.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_chan_confusion_matrix3.jpg)|
+|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix_1.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_confusion_matrix_2.jpg)|![asr_before](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/psd_corr_chan_confusion_matrix_3.jpg)|
