@@ -26,7 +26,7 @@
 
 | System FlowChart |
 | ------ |
-|![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/adhd_flowchart.png)|
+|![chan_topo](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/flowchart_adhd.png)|
 
 ### 데이터 전처리
 
