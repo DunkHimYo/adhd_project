@@ -1,7 +1,7 @@
 
 | 영상 시청을 원할시 클릭 |
 | ------ |
-|[![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/helmet.png)](https://youtu.be/QIphTZ5U-KE)|
+|[![waiting](https://github.com/DunkHimYo/adhd_project/blob/main/readMeImg/channel_topomap.png)](https://youtu.be/QIphTZ5U-KE)|
 
 # 게임 컨텐츠와  EEG를 이용한 CNN 기반 아동 ADHD 진단 시스템
 
