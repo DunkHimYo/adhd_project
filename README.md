@@ -1,3 +1,8 @@
+
+| 영상 시청을 원할시 클릭 |
+| ------ |
+|[![waiting](https://github.com/DunkHimYo/hard_hats_v2/blob/main/img/helmet.png)](https://youtu.be/QIphTZ5U-KE)|
+
 # 게임 컨텐츠와  EEG를 이용한 CNN 기반 아동 ADHD 진단 시스템
 
 - ADHD 환자의 대부분은 소아 남성이며 소아의 경우 판단력이 미숙하여 자가 진단 방식 뿐만 아니라 전산화된 테스트의 경우 장시간 측정하기 때문에 아동의 특성상 부적합 하며 정량화 뇌파 검사의 경우 주관적인 관점에서 진행되어 의사마다 진단 결과가 서로 상이할 수 있다는 문제가 생깁니다.
